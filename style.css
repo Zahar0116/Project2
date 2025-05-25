@@ -55,6 +55,7 @@ table img {
 table td {
     font-size: 22px;
     padding: 5px;
+    text-align: center;
 }
 
 .description td {
