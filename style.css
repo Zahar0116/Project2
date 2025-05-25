@@ -1,0 +1,99 @@
+body {
+    font-family: sans-serif;
+    color: black;
+    background-color: #fffaf0;
+}
+
+header, main {
+    text-align: center;
+}
+
+nav{
+   margin: 20px 0px;
+   padding: 20px 0px;
+   text-align: center;
+   background-color: #a48374;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    background-color: white;
+    color: #3a2028;
+    padding: 10px 25px;
+    border-radius: 15px;
+    margin: 20px;
+    font-size: 22px;
+}
+
+main h1 {
+    font-size: 50px;
+}
+
+main h2 {
+    font-size: 35px;
+    background-color: #f0bfa8;
+    padding: 5px;
+}
+
+main img {
+    width: 80%;
+    border: 3px solid #a48374;
+}
+
+main p {
+    font-size: 25px;
+    color: #233115;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+table img {
+    width: 250px;
+}
+
+table td {
+    font-size: 22px;
+    padding: 5px;
+}
+
+.description td {
+    color: #57463e;
+}
+
+.price td {
+    color:black;
+    font-weight: bold;
+    padding: 15px;
+}
+
+td img {
+    border: 2px solid #d8cec5;
+}
+
+td a {
+    text-decoration: none;
+    border: 1px solid  #3a2028;
+    color: #fffaf0;
+    border-radius: 101px;
+    padding: 10px 15px 10px 15px;
+    font-size: 25px;
+    margin: 10px;
+    background-color: #3a2028;
+}
+.buy td {
+    padding-top: 15px;
+}
+
+hr {
+    border-width: 3px;
+    color: #233115;
+}
+
+footer p{
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
